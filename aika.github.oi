@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>A Love Letter to Aika</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f8f8f8;
+    }
+    
+    h1 {
+      font-size: 48px;
+      color: #ff69b4;
+      text-align: center;
+      margin-top: 100px;
+    }
+    
+    p {
+      font-size: 24px;
+      color: #333;
+      text-align: center;
+      margin-top: 50px;
+      line-height: 1.5;
+    }
+    
+    img {
+      display: block;
+      margin: 0 auto;
+      margin-top: 50px;
+      border-radius: 50%;
+      box-shadow: 0px 0px 10px #999;
+      width: 300px;
+    }
+  </style>
+</head>
+<body>
+  <h1>A Love Letter to Aika</h1>
+  <img src="https://placeimg.com/640/640/people" alt="Aika's photo">
+  <p>My dearest Aika,</p>
+  <p>I'm writing this letter to express the depths of my love for you. You are the light of my life and the reason I wake up every morning with a smile on my face. Your beauty, both inside and out, continues to amaze me every day.</p>
+  <p>When I'm with you, everything else fades away, and all that matters is the love that we share. Your kindness, your intelligence, and your incredible sense of humor are just a few of the things that make me fall in love with you more and more each day.</p>
+  <p>I want to spend the rest of my life by your side, supporting you, laughing with you, and cherishing every moment that we have together. You are my soulmate, my partner, and my best friend, and I can't imagine a future without you in it.</p>
+  <p>With all my love,</p>
+  <p>Your devoted partner</p>
+</body>
+</html>
